@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Shared_Tests' do
+  pod 'Shared', :path => '../'
+  
+  
+end
